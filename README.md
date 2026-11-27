@@ -17,4 +17,4 @@ Everyone who shares a board folder should use the same version.
 
 ## License
 
-Flobordo is free software under the MIT license, © 2026 janne@reilu.eu. The licenses of the open-source components it includes are listed in the app under ☰ ▸ About Flobordo.
+Flobordo is free software under the MIT license, © 2026 Reilu Labs. The licenses of the open-source components it includes are listed in the app under ☰ ▸ About Flobordo.
