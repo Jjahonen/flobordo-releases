@@ -14,6 +14,10 @@ Flobordo is for macOS (Apple Silicon and Intel). Open `Flobordo_x.y.z_universal.
 
 Everyone who shares a board folder should use the same version.
 
+## Questions
+
+Visit [www.reilu.eu](https://www.reilu.eu).
+
 ## License
 
 Flobordo is free software under the MIT license, © 2026 Reilu Labs. The licenses of the open-source components it includes are listed in the app under ☰ ▸ About Flobordo.
