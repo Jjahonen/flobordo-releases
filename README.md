@@ -10,8 +10,7 @@ This repository holds only the installers. Each release lists what's new.
 
 ## Installing
 
-- **macOS** (Apple Silicon and Intel): open `Flobordo_x.y.z_universal.dmg` and drag Flobordo to Applications. The app is signed and notarized by Apple, so it opens without warnings.
-- **Windows 10/11:** run the `-setup.exe` (or the `.msi`). Windows may say the publisher is unknown: click **More info ▸ Run anyway**.
+Flobordo is for macOS (Apple Silicon and Intel). Open `Flobordo_x.y.z_universal.dmg` and drag Flobordo to Applications. The app is signed and notarized by Apple, so it opens without warnings.
 
 Everyone who shares a board folder should use the same version.
 
